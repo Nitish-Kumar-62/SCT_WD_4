@@ -36,8 +36,9 @@
   CSS3
   
   JavaScript (Vanilla JS)
+  
  #🌐 Live Project
-  🌐 Live link: 
+  🌐 Live link:  https://nitish-kumar-62.github.io/SCT_WD_4/
   👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_4
  # 📂 Project Structure
  SCT_WD_4
@@ -69,6 +70,6 @@
 
 🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_4
 
-🌐 Live Project : 
+🌐 Live Project :  https://nitish-kumar-62.github.io/SCT_WD_4/
 
 🌐 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
