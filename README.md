@@ -38,7 +38,7 @@
   JavaScript (Vanilla JS)
  #🌐 Live Project
   🌐 Live link: 
-  👉 GitHub Repository:
+  👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_4
  # 📂 Project Structure
  SCT_WD_4
 
@@ -67,7 +67,7 @@
 
 📧 Email:nitish62rana@gmail.com / nitish62ni@gmail.com
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_4
 
 🌐 Live Project : 
 
