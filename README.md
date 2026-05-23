@@ -69,4 +69,6 @@
 
 🔗 GitHub:
 
-🌐 LinkedIn:
+🌐 Live Project : 
+
+🌐 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
