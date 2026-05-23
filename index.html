@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart To-Do Web App</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>🧠 Smart To-Do Web App</h1>
+
+  <!-- INPUT -->
+  <div class="card">
+    <input id="title" placeholder="✍ Enter task">
+    
+    <div class="row">
+      <input id="date" type="date" onclick="this.showPicker()">
+      <input id="time" type="time" onclick="this.showPicker()">
+    </div>
+
+    <button onclick="addTask()">➕ Add Task</button>
+  </div>
+
+  <!-- COUNTER -->
+  <div class="counter">
+    📌 Total: <span id="total">0</span> |
+    🟢 Active: <span id="active">0</span> |
+    ✅ Done: <span id="done">0</span>
+  </div>
+
+  <!-- FILTER -->
+  <div class="filters">
+    <button onclick="setFilter('all')">📋 All</button>
+    <button onclick="setFilter('active')">🟡 Active</button>
+    <button onclick="setFilter('done')">🟢 Done</button>
+  </div>
+
+  <!-- TASK LIST -->
+  <div id="list"></div>
+
+</div>
+
+<!-- MODAL -->
+<div class="modal" id="modal">
+  <div class="box">
+    <h3>✏ Edit Task</h3>
+    <input id="editTitle">
+    <button onclick="saveEdit()">💾 Save</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
