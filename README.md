@@ -37,7 +37,7 @@
   
   JavaScript (Vanilla JS)
   
- #🌐 Live Project
+ # 🌐 Live Project
  
   🌐 Live link:  https://nitish-kumar-62.github.io/SCT_WD_4/
   
