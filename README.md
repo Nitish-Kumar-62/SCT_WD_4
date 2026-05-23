@@ -2,7 +2,7 @@
 # 📌 Project Title
  Smart To-Do – Responsive Task Management Web Application
 # 📌 Project Overview
- Smart To-Do is a modern, interactive and fully responsive task management web application developed for the SkillCraft Technology Internship Task 2 (SCT_WD_2).  using HTML, CSS, and JavaScript.
+ Smart To-Do is a modern, interactive and fully responsive task management web application developed for the SkillCraft Technology Internship Task 4 (SCT_WD_4).  using HTML, CSS, and JavaScript.
 
  This project is designed to help users manage daily tasks efficiently with features like adding tasks,
  setting date & time, marking completion, editing, deleting, and filtering tasks with a clean and modern UI
@@ -38,6 +38,7 @@
   JavaScript (Vanilla JS)
   
  #🌐 Live Project
+ 
   🌐 Live link:  https://nitish-kumar-62.github.io/SCT_WD_4/
   
   👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_4
